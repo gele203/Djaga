@@ -1,1 +1,6 @@
-"# Djaga" 
+# Djaga first project
+
+## Install
+
+## Run 
+
